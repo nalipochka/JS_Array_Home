@@ -20,7 +20,7 @@ let shoppingList = [
         isBuy: true
     },
 ];
-
+//
 function showList(list) {
     tmp = [];
     Object.assign(tmp, list);
